@@ -19,5 +19,5 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: h
-      run: git submodule add git://github.com/raysan5/raylib.git /
+      run: git submodule add https://github.com/raysan5/raylib.git here/now
 
